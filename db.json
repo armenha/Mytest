@@ -1,1 +1,6 @@
-{"Posts":[{"himkod":"000006","mkod":"29","anv":"Ոսկե Աքաղաղ","GtHasce":"ԱԱԱ 254"}]}
+{"Posts":[{
+        "userId": 1,
+        "id": 10,
+        "title": "AAA",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    }]}
